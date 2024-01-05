@@ -14,7 +14,7 @@ Replace your_openai_api_key and your_google_ai_api_key with the actual API keys 
 
 ## Clone the repository using the following command:
 
-git clone "url"
+git clone https://github.com/mustafaemirhanyildiz/fastapi-ai-example.git
 
 ## Install the project dependencies:
 
